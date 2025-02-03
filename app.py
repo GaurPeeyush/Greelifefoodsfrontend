@@ -4,7 +4,8 @@ import json
 from datetime import datetime
 
 # Updated API URL
-API_URL = "https://justapi-bay.vercel.app/"
+# API_URL = "https://justapi-bay.vercel.app/" one with 20 products
+API_URL = "https://fastapi-kappa-six.vercel.app/"
 #http://localhost:8000/chat
 
 def init_session_state():
